@@ -27,7 +27,10 @@
 - 🔹 [Python Data Analysis Projects](#) – (NumPy & Pandas based)  
 - 🔹 [Compiler Design Programs](#) – (Lex/Yacc, Parsing, Code Generation)  
 - 🔹 [DBMS Mini Projects](#) – (ER Diagrams, SQL Queries, Normalization)  
-- 🔹 [Automata Theory Solutions](#) – (DFA, NFA, CFG Examples)  
+- 🔹 [Automata Theory Solutions](#) – (DFA, NFA, CFG Examples)
+- [Student Marks Analyzer](https://github.com/kolaganiabhishek1284/student-marks-analyzer)  
+  Python project that analyzes student marks and generates charts/reports.
+
 
 ---
 
